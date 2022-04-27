@@ -4,4 +4,3 @@
 
 [![Run on Repl.it](https://repl.it/badge/github/MT-Aiden/ICS2O-UNIT2-03-CSharp)](https://repl.it/github/MT-Aiden/ICS2O-UNIT2-03-CSharp)
 
-This site can be found at: [https://MT-Aiden.github.io/ICS2O-UNIT2-03-CSharp](https://MT-Aiden.github.io/ICS2O-UNIT2-03-CSharp)
